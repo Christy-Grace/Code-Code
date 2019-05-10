@@ -1,5 +1,5 @@
 # Code-Code
-**versi 10 Mei 2019**
+**VERSI 10 Mei 2019 15:37 WIB**
 
 (Ubah file README ini setelah selesai mengerjakan program)
 
@@ -9,7 +9,7 @@ Bosan dengan tugas seleksi dengan model tubes/tucil? Suka melakukan optimasi pad
 
 ## Spesifikasi
 
-Pada tugas ini, akan terdapat beberapa persoalan yang mungkin mustahil diselesaikan dengan optimal dalam waktu dan resource yang terbatas. Setiap problem memiliki skor masing-masing. Pengerjaan dilakukan untuk mengejar skor tertinggi. Skor akhir adalah jumlah skor maksimal yang pernah diraih dari tiap persoalan.
+Pada tugas ini, akan terdapat beberapa persoalan yang mungkin mustahil diselesaikan dengan optimal dalam waktu dan resource yang terbatas. Setiap problem memiliki skor masing-masing. Pengerjaan dilakukan untuk mengejar skor tertinggi dari tiap persoalan. Skor akhir adalah jumlah skor maksimal yang pernah diraih dari tiap persoalan.
 
 Berikut aturan yang berlaku:
 1. Peserta bebas menggunakan bahasa pemrograman apapun.
@@ -22,9 +22,9 @@ Berikut aturan yang berlaku:
     * Melakukan submit kode sumber.
     * Melakukan submit jawaban. 
     * Melihat skor peserta dan *scoreboard*.
-6. Kode sumber dari pengerjaan tiap persoalan dimasukkan push ke folder **<nama persoalan>** dengan fail program utama bernama **Main**.
-7. Pengumpulan dilakukan dengan pull request setelah waktu pengerjaan berakhir.
-8. **Dilarang** melakukan diskusi/kerjasama/mencontek dengan perserta lain terkait pengerjaan tugas ini.
+7. Kode sumber dari pengerjaan tiap persoalan dimasukkan push ke folder **(nama persoalan)** dengan fail program utama bernama **Main**.
+8. Pengumpulan dilakukan dengan pull request setelah waktu pengerjaan berakhir.
+9. **Dilarang** melakukan diskusi/kerjasama/mencontek dengan perserta lain terkait pengerjaan tugas ini.
 
 **Instruksi lebih lanjut akan diberikan pada readme ini**
 
